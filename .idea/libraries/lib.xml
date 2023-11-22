@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/DateChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/timingframework-0.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/itext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/AbsoluteLayout-RELEASE123.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
